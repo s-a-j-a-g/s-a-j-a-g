@@ -1,5 +1,8 @@
 ### Hi there, I'm Sajag  👋
 
+<img  width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" />
+
+
 ### Connect With Me:
 <a href="https://twitter.com/s_a_j_a_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_a_j_a_g" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sajag-pradhanang-6069a1206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajag-pradhanang-6069a1206" height="30" width="40" /></a>
