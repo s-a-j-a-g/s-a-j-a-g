@@ -1,8 +1,10 @@
 ### Hi there, I'm Sajag  👋
 
 ### Connect With Me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sajag-pradhanang-6069a1206/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/s.a.j.a.g/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/s_a_j_a_g)  
+<a href="https://twitter.com/s_a_j_a_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_a_j_a_g" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sajag-pradhanang-6069a1206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajag-pradhanang-6069a1206" height="30" width="40" /></a>
+<a href="https://instagram.com/s.a.j.a.g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.a.j.a.g" height="30" width="40" /></a>
+</p> 
 
 
 ### Languages and Tools:
