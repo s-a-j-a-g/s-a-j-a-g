@@ -16,4 +16,6 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/373845/mongo.svg" style="padding-right:10px;"  />
 <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;"/>
-<img align="left" alt="Redux"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="NodeJS" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" style="padding-right:10px;"/>
+<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> 
