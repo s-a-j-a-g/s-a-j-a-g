@@ -1,6 +1,8 @@
 ### Hi there, I'm Sajag  👋
 
 ### Connect With Me:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sajag-pradhanang-6069a1206/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/s.a.j.a.g/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/s_a_j_a_g)  
 
 
 ### Languages and Tools:
