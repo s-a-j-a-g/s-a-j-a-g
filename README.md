@@ -1,6 +1,6 @@
 ### Hi there, I'm Sajag  👋
 
-<img  width="1200" height="250" style="object-fit: cover; border: 3px solid red;" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" />
+<img  width="1200" height="250" style="object-fit: cover;" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" />
 
 
 ### Connect With Me:
