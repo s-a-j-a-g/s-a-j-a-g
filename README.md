@@ -90,7 +90,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 
 <!-- Express -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img alt="Express" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" width="26" height="26" />
+    <img alt="Express" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="26" height="26" />
 </a>
 
 <!-- Postman -->
