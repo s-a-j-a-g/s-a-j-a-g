@@ -23,22 +23,22 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 ### Languages and Tools:
 
 <!-- VS Code -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer">
     <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" />
 </a>
 
 <!-- HTML -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26" height="26" />
 </a>
 
 <!-- CSS -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer">
     <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26" height="26" />
 </a>
 
 <!-- JavaScript -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26" height="26" />
 </a>
 
@@ -53,12 +53,12 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 </a>
 
 <!-- React -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26" height="26" />
 </a>
 
 <!-- Redux -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="26" height="26" />
 </a>
 
@@ -73,28 +73,28 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 </a>
 
 <!-- Git -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26" height="26" />
 </a>
 
 <!-- MongoDB -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<a href="https://www.mongodb.com/what-is-mongodb" target="_blank" rel="noreferrer">
     <img alt="MongoDB" src="https://www.svgrepo.com/show/373845/mongo.svg"  width="26" height="26" />
 </a>
 
 <!-- NodeJS -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
 <!-- <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;"/> -->
     <img alt="NodeJS" src="https://static.cdnlogo.com/logos/n/22/nodejs.svg" width="26" height="26" />
 </a>
 
 <!-- Express -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img alt="Express" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="26" height="26" />
 </a>
 
 <!-- Postman -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<a href="https://www.postman.com/product/what-is-postman/" target="_blank" rel="noreferrer">
     <img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="26" height="26" />
 </a>
 
@@ -104,7 +104,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 </a>
 
 <!-- Figma -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img alt="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  width="26" height="26" />
 </a>
 
