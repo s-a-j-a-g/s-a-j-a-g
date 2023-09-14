@@ -24,93 +24,93 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 
 <!-- VS Code -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img alt="Visual Studio Code" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+    <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" style="padding-right:10px;" />
 </a>
 
 <!-- HTML -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img alt="HTML5" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+    <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26" height="26" style="padding-right:10px;" />
 </a>
 
 <!-- CSS -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img alt="CSS3" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+    <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26" height="26" style="padding-right:10px;" />
 </a>
 
 <!-- JavaScript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img alt="JavaScript" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+    <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26" height="26" style="padding-right:10px;" />
 </a>
 
 <!-- TypeScript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="26" style="padding-right:10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="26" height="26" style="padding-right:10px;"/>
 </a>
 
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26" style="padding-right:10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26" height="26" style="padding-right:10px;"/>
 </a>
 
 <!-- React -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img alt="React" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+    <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26" height="26" style="padding-right:10px;" />
 </a>
 
 <!-- NextJS -->
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="26"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="26" height="26"/>
 </a>
 
 <!-- Tailwind CSS -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="26"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="26" height="26"/>
 </a>
 
 <!-- Git -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+    <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26" height="26" style="padding-right:10px;" />
 </a>
 
 <!-- MongoDB -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/373845/mongo.svg" style="padding-right:10px;"  />
+    <img alt="MongoDB" src="https://www.svgrepo.com/show/373845/mongo.svg"  width="26" height="26" style="padding-right:10px;"  />
 </a>
 
 <!-- NodeJS -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <!-- <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;"/> -->
-    <img alt="NodeJS" width="26" src="https://static.cdnlogo.com/logos/n/22/nodejs.svg" style="padding-right:10px;"/>
+    <img alt="NodeJS" src="https://static.cdnlogo.com/logos/n/22/nodejs.svg" width="26" height="26" style="padding-right:10px;"/>
 </a>
 
 <!-- Express -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img alt="Express" width="50" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" style="padding-right:10px;"/>
+    <img alt="Express" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" width="26" height="26" style="padding-right:10px;"/>
 </a>
 
 <!-- Redux -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="padding-right:10px;"/>
+    <img alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="26" height="26" style="padding-right:10px;"/>
 </a>
 
 <!-- Postman -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;"/>
+    <img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="26" height="26" style="padding-right:10px;"/>
 </a>
 
 <!-- Adobe Illustrator -->
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="26"/>
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="26" height="26"/>
 </a>
 
 <!-- Figma -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:10px;"/>
+    <img alt="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  width="26" height="26" style="padding-right:10px;"/>
 </a>
 
 <!-- Adobe Photoshop -->
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="26"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="26" height="26"/>
 </a>
 
 <!-- Puppeteer -->
