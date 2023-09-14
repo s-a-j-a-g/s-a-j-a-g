@@ -68,33 +68,33 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 </a>
 
 <!-- Git -->
-<a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 </a>
 
 <!-- MongoDB -->
-<a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img align="left" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/373845/mongo.svg" style="padding-right:10px;"  />
 </a>
 
 <!-- NodeJS -->
-<a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <!-- <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;"/> -->
     <img align="left" alt="NodeJS" width="26" src="https://static.cdnlogo.com/logos/n/22/nodejs.svg" style="padding-right:10px;"/>
 </a>
 
 <!-- Express -->
-<a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img align="left" alt="Express" width="50" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" style="padding-right:10px;"/>
 </a>
 
 <!-- Redux -->
-<a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="padding-right:10px;"/>
 </a>
 
 <!-- Postman -->
-<a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;"/>
 </a>
 
@@ -104,7 +104,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 </a>
 
 <!-- Figma -->
-<a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:10px;"/>
 </a>
 
