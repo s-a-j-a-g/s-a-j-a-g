@@ -24,22 +24,22 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 
 <!-- VS Code -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img align="left" alt="Visual Studio Code" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+    <img alt="Visual Studio Code" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 </a>
 
 <!-- HTML -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img align="left" alt="HTML5" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+    <img alt="HTML5" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 </a>
 
 <!-- CSS -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img align="left" alt="CSS3" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+    <img alt="CSS3" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 </a>
 
 <!-- JavaScript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img align="left" alt="JavaScript" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+    <img alt="JavaScript" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 </a>
 
 <!-- TypeScript -->
@@ -69,33 +69,33 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 
 <!-- Git -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+    <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 </a>
 
 <!-- MongoDB -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img align="left" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/373845/mongo.svg" style="padding-right:10px;"  />
+    <img alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/373845/mongo.svg" style="padding-right:10px;"  />
 </a>
 
 <!-- NodeJS -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <!-- <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;"/> -->
-    <img align="left" alt="NodeJS" width="26" src="https://static.cdnlogo.com/logos/n/22/nodejs.svg" style="padding-right:10px;"/>
+    <img alt="NodeJS" width="26" src="https://static.cdnlogo.com/logos/n/22/nodejs.svg" style="padding-right:10px;"/>
 </a>
 
 <!-- Express -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img align="left" alt="Express" width="50" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" style="padding-right:10px;"/>
+    <img alt="Express" width="50" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" style="padding-right:10px;"/>
 </a>
 
 <!-- Redux -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="padding-right:10px;"/>
+    <img alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="padding-right:10px;"/>
 </a>
 
 <!-- Postman -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;"/>
+    <img alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;"/>
 </a>
 
 <!-- Adobe Illustrator -->
@@ -105,7 +105,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 
 <!-- Figma -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:10px;"/>
+    <img alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:10px;"/>
 </a>
 
 <!-- Adobe Photoshop -->
