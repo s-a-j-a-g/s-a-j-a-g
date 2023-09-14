@@ -23,7 +23,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 ### Languages and Tools:
 
 <!-- VS Code -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="padding-right:10px;">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin-right:10px;">
     <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" />
 </a>
 
