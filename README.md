@@ -57,6 +57,11 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
     <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26" height="26" />
 </a>
 
+<!-- Redux -->
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="26" height="26" />
+</a>
+
 <!-- NextJS -->
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="26" height="26"/>
@@ -86,11 +91,6 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 <!-- Express -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img alt="Express" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" width="26" height="26" />
-</a>
-
-<!-- Redux -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="26" height="26" />
 </a>
 
 <!-- Postman -->
