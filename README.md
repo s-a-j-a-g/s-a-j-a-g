@@ -18,7 +18,6 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.a.j.a.g" height="30" width="40" />
 </a>
 
-<!-- </p> -->
 
 ### Languages and Tools:
 
@@ -28,7 +27,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 </a>
 
 <!-- HTML -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
     <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26" height="26" />
 </a>
 
@@ -117,6 +116,26 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="26" height="26"/>
 </a>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-a-j-a-g&show_icons=true&locale=en&layout=compact" alt="s-a-j-a-g" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-a-j-a-g&show_icons=true&locale=en" alt="s-a-j-a-g" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-a-j-a-g&" alt="s-a-j-a-g" /></p>
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-a-j-a-g&label=Profile%20views&color=0e75b6&style=flat" alt="s-a-j-a-g" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-a-j-a-g" alt="s-a-j-a-g" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <!-- Resources -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
