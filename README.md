@@ -115,7 +115,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 
 <!-- Puppeteer -->
 <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="26"/>
+    <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="26" height="26"/>
 </a>
 
 <!-- Resources -->
