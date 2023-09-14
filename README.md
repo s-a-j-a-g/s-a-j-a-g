@@ -25,7 +25,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 </p>
 
 <!-- GitHub Trophies -->
-<p align="left">
+<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=s-a-j-a-g" alt="s-a-j-a-g" />
     </a>
