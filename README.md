@@ -37,7 +37,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 </a>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26"/>
 </a>
 
 <a>
@@ -45,7 +45,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 </a>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="26"/>
 </a>
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
