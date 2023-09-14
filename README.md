@@ -4,7 +4,10 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 
 <img width="1200" height="180" style="object-fit: cover;" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-a-j-a-g)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Github Stats -->
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-a-j-a-g&show_icons=true&locale=en&layout=compact" alt="s-a-j-a-g" />
+</p>
 
 ### Connect With Me:
 
@@ -17,7 +20,6 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 <a href="https://instagram.com/s.a.j.a.g" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.a.j.a.g" height="30" width="40" />
 </a>
-
 
 ### Languages and Tools:
 
@@ -117,15 +119,9 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
     <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="26" height="26"/>
 </a>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-a-j-a-g&show_icons=true&locale=en&layout=compact" alt="s-a-j-a-g" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-a-j-a-g&show_icons=true&locale=en" alt="s-a-j-a-g" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-a-j-a-g&" alt="s-a-j-a-g" /></p>
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-a-j-a-g&label=Profile%20views&color=0e75b6&style=flat" alt="s-a-j-a-g" /> </p>
 
@@ -133,7 +129,6 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
