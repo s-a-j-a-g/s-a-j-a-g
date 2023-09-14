@@ -11,6 +11,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 
 ### Connect With Me:
 
+<p>
 <a href="https://twitter.com/s_a_j_a_g" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_a_j_a_g" height="30" width="40" />
 </a>
@@ -118,18 +119,31 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="26" height="26"/>
 </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-a-j-a-g&show_icons=true&locale=en" alt="s-a-j-a-g" /></p>
+<p>&nbsp;
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=s-a-j-a-g&show_icons=true&locale=en" alt="s-a-j-a-g" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-a-j-a-g&" alt="s-a-j-a-g" /></p>
+<!-- Streaks, Contributions -->
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-a-j-a-g&" alt="s-a-j-a-g" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-a-j-a-g&label=Profile%20views&color=0e75b6&style=flat" alt="s-a-j-a-g" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-a-j-a-g" alt="s-a-j-a-g" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- Profile Views -->
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=s-a-j-a-g&label=Profile%20views&color=0e75b6&style=flat" alt="s-a-j-a-g" />
+</p>
 
 <p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=s-a-j-a-g" alt="s-a-j-a-g" />
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://twitter.com/" target="blank">
+        <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+    </a>
 </p>
 
 <!-- Resources -->
