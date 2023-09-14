@@ -1,6 +1,6 @@
 ### Hi there, I'm Sajag 👋
 
-I am from Nepal. I wwould describe myself as Web alchemist, sculpting digital experiences with a dash of creativity and a sprinkle of innovation. 🌐✨ #CodeArtist"
+I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting digital experiences with a dash of creativity and a sprinkle of innovation. Crafting responsive interfaces and seamless user journeys, while occasionally dabbling in the art of code magic.🌐✨ Let's brew some digital wonders together! 💻✨ #CodeArtist
 
 <img  width="1200" height="180" style="object-fit: cover;" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" />
 
