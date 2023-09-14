@@ -145,7 +145,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 </a>
 
 <!-- Tex -->
-<a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
+<a href="https://ctan.org/tex?lang=en" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TeXShop_icon.png/600px-TeXShop_icon.png" alt="tex" width="30" height="30"/>
 </a>
 </p>
