@@ -45,13 +45,17 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 
 <p>
 <!-- VS Code -->
-<code><a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer">
-    <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" />
-</a></code>
+<a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer">
+    <code>
+        <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" />
+    </code>
+</a>
 
 <!-- HTML -->
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
+    <code>
     <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26" height="26" />
+    </code>
 </a>
 
 <!-- CSS -->
