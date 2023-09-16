@@ -16,8 +16,8 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 
 <!-- | <a> <img align="left" src="https://github-readme-stats.vercel.app/api?username=s-a-j-a-g&show_icons=true&locale=en" alt="s-a-j-a-g" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-a-j-a-g&show_icons=true&locale=en&layout=compact" alt="s-a-j-a-g" /></a> | -->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=s-a-j-a-g&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sajag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-a-j-a-g&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=s-a-j-a-g&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sajag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-a-j-a-g&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!-- Streaks, Contributions -->
 <p>
