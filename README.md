@@ -5,14 +5,17 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 <img width="1200" height="180" style="object-fit: cover;" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" />
 
 <!-- Github Stats -->
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=s-a-j-a-g&show_icons=true&locale=en" alt="s-a-j-a-g" />
+
+| <p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=s-a-j-a-g&show_icons=true&locale=en" alt="s-a-j-a-g" />
 </p>
+
+|
 
 <!-- Most Used Languages -->
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-a-j-a-g&show_icons=true&locale=en&layout=compact" alt="s-a-j-a-g" />
-</p>
+</p> |
 
 <!-- Streaks, Contributions -->
 <p>
