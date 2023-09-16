@@ -5,16 +5,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 <img width="1200" height="180" style="object-fit: cover;" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" />
 
 <!-- Github Stats -->
-<!-- | <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=s-a-j-a-g&show_icons=true&locale=en" alt="s-a-j-a-g" />
-</p> -->
-
 <!-- Most Used Languages -->
-<!-- <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-a-j-a-g&show_icons=true&locale=en&layout=compact" alt="s-a-j-a-g" />
-</p> | -->
-
-<!-- | <a> <img align="left" src="https://github-readme-stats.vercel.app/api?username=s-a-j-a-g&show_icons=true&locale=en" alt="s-a-j-a-g" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-a-j-a-g&show_icons=true&locale=en&layout=compact" alt="s-a-j-a-g" /></a> | -->
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=s-a-j-a-g&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sajag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-a-j-a-g&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -54,9 +45,9 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 
 <p>
 <!-- VS Code -->
-<a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer">
+<code><a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer">
     <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" />
-</a>
+</a></code>
 
 <!-- HTML -->
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
