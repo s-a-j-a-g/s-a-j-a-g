@@ -52,7 +52,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 
 <!-- VS Code -->
 <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer">
-    <code><img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" /><code>
+    <code><img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" /></code>
 </a>
 
 <!-- HTML -->
