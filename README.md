@@ -69,7 +69,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 </a> -->
 
 <!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26" height="26" />
 </a>
 
@@ -152,7 +152,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 <!-- Tex -->
 <a href="https://ctan.org/tex?lang=en" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TeXShop_icon.png/600px-TeXShop_icon.png" alt="tex" width="30" height="30"/>
-</a>
+</a> -->
 <!-- </p> -->
 
 <!-- Resources -->
