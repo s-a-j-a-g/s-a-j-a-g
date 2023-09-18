@@ -50,8 +50,10 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 
 ### Languages and Tools:
 
-<p>
+<!-- <p> -->
 <!-- VS Code -->
+<!-- <code><a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" /></a><code> -->
+
 <code><a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" /></a><code>
 
 <!-- HTML -->
@@ -149,7 +151,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 <a href="https://ctan.org/tex?lang=en" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TeXShop_icon.png/600px-TeXShop_icon.png" alt="tex" width="30" height="30"/>
 </a>
-</p>
+<!-- </p> -->
 
 <!-- Resources -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
