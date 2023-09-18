@@ -41,7 +41,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
     </a>
 </p>
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<!-- <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> -->
 
 <!-- <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -52,9 +52,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 
 <p>
 <!-- VS Code -->
-<a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer">
-    <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" />
-</a>
+<code><a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" /></a><code>
 
 <!-- HTML -->
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
