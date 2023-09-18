@@ -41,13 +41,6 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
     </a>
 </p>
 
-<!-- <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
-
 ### Languages and Tools:
 
 <!-- VS Code -->
@@ -150,13 +143,6 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 <a href="https://ctan.org/tex?lang=en" target="_blank" rel="noreferrer">
     <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TeXShop_icon.png/600px-TeXShop_icon.png" alt="tex" width="30" height="30"/></code>
 </a>
-<!-- </p> -->
-
-<!-- <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer">
-    <code><img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="26" /></code>
-</a>
-<code><img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" /></code>
-<code><img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" /></code> -->
 
 <!-- Resources -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
