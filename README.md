@@ -72,83 +72,83 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 
 <!-- TypeScript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="26" height="26" />
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="26" height="26"></code>
 </a>
 
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26" height="26" />
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26" height="26" /></code>
 </a>
 
 <!-- React -->
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26" height="26" />
+    <code><img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26" height="26" /></code>
 </a>
 
 <!-- Redux -->
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="26" height="26" />
+    <code><img alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="26" height="26" /></code>
 </a>
 
 <!-- NextJS -->
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" alt="nextjs" width="26" height="26"/>
+    <code><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" alt="nextjs" width="26" height="26"/></code>
 </a>
 
 <!-- Tailwind CSS -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="26" height="26"/>
+    <code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="26" height="26"/></code>
 </a>
 
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26" height="26" />
+    <code><img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26" height="26" /></code>
 </a>
 
 <!-- MongoDB -->
 <a href="https://www.mongodb.com/what-is-mongodb" target="_blank" rel="noreferrer">
-    <img alt="MongoDB" src="https://www.svgrepo.com/show/373845/mongo.svg"  width="26" height="26" />
+    <code><img alt="MongoDB" src="https://www.svgrepo.com/show/373845/mongo.svg"  width="26" height="26" /></code>
 </a>
 
 <!-- NodeJS -->
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
 <!-- <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;"/> -->
-    <img alt="NodeJS" src="https://static.cdnlogo.com/logos/n/22/nodejs.svg" width="26" height="26" />
+    <code><img alt="NodeJS" src="https://static.cdnlogo.com/logos/n/22/nodejs.svg" width="26" height="26" /></code>
 </a>
 
 <!-- Express -->
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img alt="Express" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="26" height="26" />
+    <code><img alt="Express" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="26" height="26" /></code>
 </a>
 
 <!-- Postman -->
 <a href="https://www.postman.com/product/what-is-postman/" target="_blank" rel="noreferrer">
-    <img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="26" height="26" />
+    <code><img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="26" height="26" /></code>
 </a>
 
 <!-- Adobe Illustrator -->
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="26" height="26"/>
+    <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="26" height="26"/></code>
 </a>
 
 <!-- Figma -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img alt="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  width="26" height="26" />
+    <code><img alt="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  width="26" height="26" /></code>
 </a>
 
 <!-- Adobe Photoshop -->
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="26" height="26"/>
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="26" height="26"/></code>
 </a>
 
 <!-- Puppeteer -->
 <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="26" height="26"/>
+    <code><img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="26" height="26"/></code>
 </a>
 
 <!-- Tex -->
 <a href="https://ctan.org/tex?lang=en" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TeXShop_icon.png/600px-TeXShop_icon.png" alt="tex" width="30" height="30"/>
+    <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TeXShop_icon.png/600px-TeXShop_icon.png" alt="tex" width="30" height="30"/></code>
 </a>
 <!-- </p> -->
 
