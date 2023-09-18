@@ -51,24 +51,23 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 ### Languages and Tools:
 
 <!-- VS Code -->
-
 <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer">
     <code><img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" /><code>
 </a>
 
 <!-- HTML -->
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
-  <code<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26" height="26" /></code>
+  <code><img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26" height="26" /></code>
 </a>
 
 <!-- CSS -->
 <a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer">
-    <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26" height="26" />
+    <code><img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26" height="26" /></code>
 </a>
 
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26" height="26" />
+    <code><img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26" height="26" /></code>
 </a>
 
 <!-- TypeScript -->
