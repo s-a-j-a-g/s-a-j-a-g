@@ -18,7 +18,7 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 <!-- | <div style="display: flex; justify-content: center;"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-a-j-a-g&" alt="s-a-j-a-g" style="width: 100%;"/> </div> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -->
 
-<div align="center" style="width: 95%; border: 1px solid #ccc; padding: 10px;">
+<div align="center" padding="50" style="width: 100%; border: 1px solid #ccc; padding: 10px;">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-a-j-a-g" alt="s-a-j-a-g" style="width: 95%;" />
 </div>
 <!-- <div style="display: flex; justify-content: center; width: 100%;">
