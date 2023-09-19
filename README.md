@@ -11,9 +11,12 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!-- Streaks, Contributions -->
-<p>
+<!-- <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-a-j-a-g&" alt="s-a-j-a-g" />
-</p>
+</p> -->
+
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-a-j-a-g&" alt="s-a-j-a-g" /> |
+| -------------------------------------------------------------------------------------------------------------- |
 
 <!-- Profile Views / Visitors Count -->
 <p align="center">
@@ -21,11 +24,11 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 </p>
 
 <!-- GitHub Trophies -->
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=s-a-j-a-g" alt="s-a-j-a-g" />
     </a>
-</p>
+</p> -->
 
 ### Connect With Me:
 
