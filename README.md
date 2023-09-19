@@ -18,6 +18,10 @@ I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting di
 | <div style="display: flex; justify-content: center;"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-a-j-a-g&" alt="s-a-j-a-g" style="width: 100%;"/> </div> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-a-j-a-g" alt="s-a-j-a-g" style="width: 100%;" />
+</div>
+
 <!-- Profile Views / Visitors Count -->
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=s-a-j-a-g&label=Profile%20views&color=0e75b6&style=flat" alt="s-a-j-a-g" />
