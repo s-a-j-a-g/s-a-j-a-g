@@ -2,7 +2,8 @@
 
 I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting digital experiences with a dash of creativity and a sprinkle of innovation. Crafting responsive interfaces and seamless user journeys, while occasionally dabbling in the art of code magic.🌐✨ Let's brew some digital wonders together! 💻✨ #CodeArtist
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+<!-- ![Octocat](https://myoctocat.com/assets/images/base-octocat.svg) -->
+<img src="https://myoctocat.com/assets/images/base-octocat.svg" height="200" alt="Octocat" />
 
 <img width="1200" height="180" style="object-fit: cover;" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" />
 
