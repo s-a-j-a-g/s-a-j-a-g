@@ -1,13 +1,13 @@
 <!-- ### Hi there, I'm Sajag 👋 -->
 
 <!-- <img align="right" src="https://myoctocat.com/assets/images/base-octocat.svg" height="200" alt="Octocat" /> -->
-<div style="text-align: left;">
+<div  align="left" style="text-align: left;">
     
 ### Hi there, I'm Sajag 👋
 
 </div>
 
-<div style="text-align: right;">
+<div  align="right" style="text-align: right;">
     <img src="https://myoctocat.com/assets/images/base-octocat.svg" height="200" alt="Octocat" />
 </div>
 
