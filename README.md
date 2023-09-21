@@ -1,10 +1,19 @@
+<!-- ### Hi there, I'm Sajag 👋 -->
+
+<!-- <img align="right" src="https://myoctocat.com/assets/images/base-octocat.svg" height="200" alt="Octocat" /> -->
+<div style="text-align: left;">
+    
 ### Hi there, I'm Sajag 👋
+
+</div>
+
+<div style="text-align: right;">
+    <img src="https://myoctocat.com/assets/images/base-octocat.svg" height="200" alt="Octocat" />
+</div>
 
 <p>
 I am from Nepal. 🇳🇵 I would describe myself as web alchemist, sculpting digital experiences with a dash of creativity and a sprinkle of innovation. Crafting responsive interfaces and seamless user journeys, while occasionally dabbling in the art of code magic.🌐✨ Let's brew some digital wonders together! 💻✨ #CodeArtist
 
-<!-- ![Octocat](https://myoctocat.com/assets/images/base-octocat.svg) -->
-<img align="right" src="https://myoctocat.com/assets/images/base-octocat.svg" height="200" alt="Octocat" />
 </p>
 
 <img width="1200" height="180" style="object-fit: cover;" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" />
