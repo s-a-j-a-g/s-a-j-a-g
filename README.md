@@ -36,7 +36,7 @@
 
 <p>
     <a href="https://twitter.com/s_a_j_a_g" target="blank">
-     <img align="center" src="https://freelogopng.com/images/all_img/1690643640twitter-x-icon-png.png" alt="s_a_j_a_g" height="30" width="40" />
+     <img align="center" src="https://freelogopng.com/images/all_img/1690643640twitter-x-icon-png.png" alt="s_a_j_a_g" height="40" width="40" />
         <!-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_a_j_a_g" height="30" width="40" /> -->
     </a>
     <a href="https://linkedin.com/in/sajag-pradhanang-6069a1206" target="blank">
